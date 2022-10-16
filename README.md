@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @b-palaniappan
-- 👀 I’m interested in IOT, Frontend and Backend development
+- 👀 I’m interested in IOT, Frontend and Backend web development
 - 🌱 I’m currently learning micropython for ESP32, Svelte and ReactJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
