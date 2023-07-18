@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bala</h1>
 <h3 align="center">A passionate frontend and backend Software development.</h3>
 
-- 🌱 I’m currently learning **Rust, Axum, Actix-web**
 - 👀 I’m interested in IOT, Frontend and Backend web development
 - 🌱 I’m currently learning **micropython for ESP32, Svelte and Rust**.
 
