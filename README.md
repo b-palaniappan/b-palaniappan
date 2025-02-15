@@ -20,13 +20,13 @@
 <img alt="database skills" src="https://skillicons.dev/icons?theme=dark&perline=10&i=mysql,postgresql,cassandra,mongodb,redis" />
 
 ### Tools
-<img alt="tools skills" src="https://skillicons.dev/icons?theme=dark&perline=10&i=idea,vscode,git,github,gitlab,postman" />
+<img alt="tools skills" src="https://skillicons.dev/icons?theme=dark&perline=10&i=idea,vscode,eclipse,git,github,gitlab,postman" />
 
 ### Cloud Infrastructure
 <img alt="infrastructure skills" src="https://skillicons.dev/icons?theme=dark&perline=10&i=aws,docker,kubernetes" />
 
 ### Operating System
-<img alt="infrastructure skills" src="https://skillicons.dev/icons?theme=dark&perline=10&i=apple,ubuntu,debian,redhat,windows" />
+<img alt="infrastructure skills" src="https://skillicons.dev/icons?theme=dark&perline=10&i=apple,ubuntu,debian,arch,windows" />
 
 ### Learning
 <img alt="database skills" src="https://skillicons.dev/icons?theme=dark&perline=10&i=elixir,rust" />
